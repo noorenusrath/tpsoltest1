@@ -1,0 +1,35 @@
+{
+	"employee":[{
+		"fname":"nusrath",
+		"Lname":"tippu",
+		 "age":23,
+		 "eid":1245
+	},
+	{
+		"fname":"nnn",
+		"Lname":"ttttt",
+		 "age":20,
+		 "eid":12145
+	},
+	{
+		"fname":"rahi",
+		"Lname":"piyhh",
+		 "age":22,
+		 "eid":245
+	},
+	
+	{
+		"fname":"thimho",
+		"Lname":"uerhb",
+		 "age":25,
+		 "eid":1289
+	},
+	
+	{
+"fname":"nussu",
+		"Lname":"tuan",
+		 "age":24,
+		 "eid":1458		
+	}
+	]
+	}
